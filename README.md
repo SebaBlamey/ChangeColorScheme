@@ -23,8 +23,6 @@ Here is an example of the original image and the three resulting images:
 | ---------------------------------- | ----------------------------------------- | ----------------------------------- | --------------------------------------------- |
 | ![Original Image](assets/wall.png) | ![Catppuccin](assets/wall_Catppuccin.png) | ![Gruvbox](assets/wall_Gruvbox.png) | ![Tokyo Night](assets/wall_Tokyo%20Night.png) |
 
-You can replace the image paths with the actual paths to your images.
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
