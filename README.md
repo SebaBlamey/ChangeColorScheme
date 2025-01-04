@@ -19,9 +19,9 @@ python main.py {your_image path}
 
 Here is an example of the original image and the three resulting images:
 
-| Original Image                     | Catppuccin                                | Gruvbox                             | Tokyo Night                                   |
-| ---------------------------------- | ----------------------------------------- | ----------------------------------- | --------------------------------------------- |
-| ![Original Image](assets/wall.png) | ![Catppuccin](assets/wall_Catppuccin.png) | ![Gruvbox](assets/wall_Gruvbox.png) | ![Tokyo Night](assets/wall_Tokyo%20Night.png) |
+| Original Image                       | Nord                                  | Gruvbox                               | Tokyo Night                                     |
+| ------------------------------------ | ------------------------------------- | ------------------------------------- | ----------------------------------------------- |
+| ![Original Image](assets/makima.png) | ![Catppuccin](assets/makima_Nord.png) | ![Gruvbox](assets/makima_Gruvbox.png) | ![Tokyo Night](assets/makima_Tokyo%20Night.png) |
 
 ### Note
 
