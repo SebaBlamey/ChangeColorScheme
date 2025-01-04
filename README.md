@@ -21,7 +21,7 @@ Here is an example of the original image and the three resulting images:
 
 | Original Image                       | Nord                                  | Gruvbox                               | Tokyo Night                                     |
 | ------------------------------------ | ------------------------------------- | ------------------------------------- | ----------------------------------------------- |
-| ![Original Image](assets/makima.png) | ![Catppuccin](assets/makima_Nord.png) | ![Gruvbox](assets/makima_Gruvbox.png) | ![Tokyo Night](assets/makima_Tokyo%20Night.png) |
+| ![Original Image](assets/makima.jpg) | ![Catppuccin](assets/makima_Nord.png) | ![Gruvbox](assets/makima_Gruvbox.png) | ![Tokyo Night](assets/makima_Tokyo%20Night.png) |
 
 ### Note
 
